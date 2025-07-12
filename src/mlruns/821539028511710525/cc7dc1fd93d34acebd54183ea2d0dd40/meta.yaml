@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/NewsGuard/src/mlruns/821539028511710525/cc7dc1fd93d34acebd54183ea2d0dd40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '821539028511710525'
+lifecycle_stage: active
+run_id: cc7dc1fd93d34acebd54183ea2d0dd40
+run_name: abrasive-bug-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752253204686
+status: 1
+tags: []
+user_id: hp

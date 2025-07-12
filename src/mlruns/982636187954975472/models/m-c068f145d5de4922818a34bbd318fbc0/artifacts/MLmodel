@@ -1,0 +1,22 @@
+artifact_path: file:///D:/NewsGuard/src/mlruns/982636187954975472/models/m-c068f145d5de4922818a34bbd318fbc0/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-c068f145d5de4922818a34bbd318fbc0
+model_size_bytes: 40720
+model_uuid: m-c068f145d5de4922818a34bbd318fbc0
+prompts: null
+run_id: a48025bc27484428972457190b1a8648
+utc_time_created: '2025-07-11 13:24:40.477062'

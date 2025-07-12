@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/NewsGuard/src/mlruns/821539028511710525/fea44996f7a748f48101cadd203edc3f/artifacts
+end_time: 1752253087124
+entry_point_name: ''
+experiment_id: '821539028511710525'
+lifecycle_stage: active
+run_id: fea44996f7a748f48101cadd203edc3f
+run_name: funny-quail-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752253087108
+status: 4
+tags: []
+user_id: hp

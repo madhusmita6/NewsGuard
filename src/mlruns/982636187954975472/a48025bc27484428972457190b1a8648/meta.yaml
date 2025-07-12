@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/NewsGuard/src/mlruns/982636187954975472/a48025bc27484428972457190b1a8648/artifacts
+end_time: 1752240285307
+entry_point_name: ''
+experiment_id: '982636187954975472'
+lifecycle_stage: active
+run_id: a48025bc27484428972457190b1a8648
+run_name: nimble-stag-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752240279869
+status: 3
+tags: []
+user_id: hp

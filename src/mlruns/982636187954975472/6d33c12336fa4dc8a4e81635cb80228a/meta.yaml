@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/NewsGuard/src/mlruns/982636187954975472/6d33c12336fa4dc8a4e81635cb80228a/artifacts
+end_time: 1752243738160
+entry_point_name: ''
+experiment_id: '982636187954975472'
+lifecycle_stage: active
+run_id: 6d33c12336fa4dc8a4e81635cb80228a
+run_name: angry-mole-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752243735431
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/NewsGuard/src/mlruns/982636187954975472/models/m-921ecabea0814884aa2ca5ece615fa3c/artifacts
+creation_timestamp: 1752243735690
+experiment_id: '982636187954975472'
+last_updated_timestamp: 1752243738114
+model_id: m-921ecabea0814884aa2ca5ece615fa3c
+model_type: null
+name: model
+source_run_id: 6d33c12336fa4dc8a4e81635cb80228a
+status: 2
+status_message: null

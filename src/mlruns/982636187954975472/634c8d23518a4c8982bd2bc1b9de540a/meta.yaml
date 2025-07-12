@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/NewsGuard/src/mlruns/982636187954975472/634c8d23518a4c8982bd2bc1b9de540a/artifacts
+end_time: 1752236283208
+entry_point_name: ''
+experiment_id: '982636187954975472'
+lifecycle_stage: active
+run_id: 634c8d23518a4c8982bd2bc1b9de540a
+run_name: illustrious-shad-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752236278326
+status: 3
+tags: []
+user_id: hp

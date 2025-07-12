@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/NewsGuard/src/mlruns/0/081a7aca5b4343dab7a086d0725ad149/artifacts
+end_time: 1752243888414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 081a7aca5b4343dab7a086d0725ad149
+run_name: Evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752243888372
+status: 3
+tags: []
+user_id: hp
